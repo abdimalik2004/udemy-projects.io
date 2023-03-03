@@ -1,4 +1,4 @@
-h1,h2,h3,p,li{
+h1,h2,h3,p, h4,li{
     font-family: sans-serif;
 }
 h1{
@@ -12,11 +12,14 @@ h2{
 h3{
     font-size: 30px;
 }
+h4{
+    text-align: center;
+    font-size: 30px;
+}
 p{
     font-size: 22px;
     line-height: 1.5;
 }
 li{
     font-size: 20px;
-    text-align: center;
 }
